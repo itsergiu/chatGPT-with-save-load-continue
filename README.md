@@ -7,3 +7,5 @@ Creating a chatGPT chatbot in Python with Save, Load and Continue
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/itsergiu/chatGPT-with-save-load-continue/HEAD)
 
 <a href="https://example.com" target="_blank">Link to Example</a>
+<p>Check out <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>.</p>
+
