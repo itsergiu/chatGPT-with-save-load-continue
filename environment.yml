@@ -5,7 +5,7 @@ channels:
 dependencies:
 - jupyterlab=3.5.3
 - python=3.8.16
-- pip
+- pip=22.3.1
 - pip:
   - openai==0.27.4
  
