@@ -3,7 +3,6 @@ channels:
 - conda-forge
 - defaults
 dependencies:
-- pandas
 - pip:
   - openai==0.27.4
  
